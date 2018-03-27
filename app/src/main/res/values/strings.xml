@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator18</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_list">List</string>
+    <string name="action_add">Add</string>
+    <string name="upper_input">Euro:</string>
+    <string name="lower_input">USD:</string>
+    <string name="button_text">Calculate</string>
+
+</resources>
